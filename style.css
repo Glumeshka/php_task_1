@@ -5,6 +5,7 @@ body {
     background-image: url('img/page.gif');
     background-size: 180px;
     color: rgb(234, 231, 203);
+    text-align: center;
 }
 
 h3 {
